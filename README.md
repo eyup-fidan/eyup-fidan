@@ -1,4 +1,4 @@
-# Hi there, I'm Eyüp Fidan! 
+# Hi, I'm Eyüp Fidan! 
 
 ### Full Stack Developer | Computer Engineer
 
