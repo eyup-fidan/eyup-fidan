@@ -1,4 +1,4 @@
-# Hi there, I'm Eyüp Fidan! 👋
+# Hi there, I'm Eyüp Fidan! 
 
 ### Full Stack Developer | Computer Engineer
 
@@ -8,7 +8,7 @@ I have gained professional industry experience working as a **Frontend Developer
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 
 - 🌐 **Full Stack Development:** Building complete web applications from database design to user interface using **MERN Stack** and **Next.js**.
 - 💻 **Frontend Expertise:** Creating responsive, accessible, and high-performance UIs with **React, TypeScript, and Tailwind CSS**.
@@ -17,7 +17,7 @@ I have gained professional industry experience working as a **Frontend Developer
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Frontend Technologies:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,7 +41,7 @@ I have gained professional industry experience working as a **Frontend Developer
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 I'm always open to discussing full-stack projects, software architecture, or career opportunities.
 
